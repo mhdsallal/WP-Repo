@@ -1,0 +1,2 @@
+# WP-Repo
+WordPress CDN
